@@ -1,6 +1,12 @@
 # 🛠 Utilities
 [`< go back home`](../README.md)
 
+- **App Manager**: A full-featured package manager and viewer for Android
+ 
+  ![Stars](https://github.com/MuntashirAkon/AppManager/stargazers) ![last commit](https://github.com/MuntashirAkon/AppManager/commits/master/)
+
+  [`[source]`](https://github.com/MuntashirAkon/AppManager "source") [`[f-droid]`](https://f-droid.org/packages/io.github.muntashirakon.AppManager/ "f-droid") [`[website]`](https://muntashirakon.github.io/AppManager/"website")
+  
 - **AA AIO TWEAKER**: The ultimate All-In-One Utility to tweak Android Auto behaviour. This app uses SQLite commands to override some flags related to Android Auto into the Google Play Services.
 
     ![Stars](https://badgen.net/github/stars/shmykelsa/AA-Tweaker) ![last commit](https://img.shields.io/github/last-commit/shmykelsa/AA-Tweaker)
